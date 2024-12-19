@@ -1,0 +1,24 @@
+From 88a8825e9defd612f853169815243f8dae2564b0 Mon Sep 17 00:00:00 2001
+From: Ali Abbas <43527087+realabbas@users.noreply.github.com>
+Date: Sun, 20 Oct 2019 19:16:32 +0530
+Subject: [PATCH] Added Paytm Bug Bounty Program
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/README.md b/README.md
+index a5ccd6b..e740d18 100644
+--- a/README.md
++++ b/README.md
+@@ -370,6 +370,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
+ - [Paychoice](mailto:security@paychoice.com.au)
+ - [PayMill](mailto:security@paymill.com)
+ - [PayPal](mailto:https://www.paypal.com/bugbounty/register)
++- [Paytm](https://bugbounty.paytm.com)
+ - [Perl](https://hackerone.com/ibb-perl)
+ - [Phabricator](https://hackerone.com/phabricator)
+ - [PHP](https://bugs.php.net/report.php)
+--
+Working Copy 6.2.1
+
